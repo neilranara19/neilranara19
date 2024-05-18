@@ -1,6 +1,6 @@
 About Me:
 
-Hello! I'm Neil Joseph Ranara, a New Era University student pursuing a BSIT. Iwith a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+Hello! I'm Neil Joseph Ranara, a New Era University student pursuing a BSIT. with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 
 
