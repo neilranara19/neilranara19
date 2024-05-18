@@ -1,6 +1,6 @@
 About Me:
 
-Hello! I'm Neil Joseph Ranara, a New Era University student pursuing a BSIT. I have some knowledge of basic coding, but not much because I'm more interested in web design, databases, and networking. I like taking on challenging issues and developing sophisticated answers. My career in technology began when I enrolled in the Bachelor of Science in Information Technology course.
+Hello! I'm Neil Joseph Ranara, a New Era University student pursuing a BSIT. Iwith a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 
 
@@ -10,7 +10,7 @@ BS Information Technology
 
 New Era University
 
-2020-Present
+2021-Present
 
 
 
